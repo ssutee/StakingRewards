@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+cache/
+abis/
+.vscode/
+.env
+.openzeppelin/
+deployments/localhost/
